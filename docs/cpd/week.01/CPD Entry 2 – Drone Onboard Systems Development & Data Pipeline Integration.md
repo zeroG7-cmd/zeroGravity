@@ -28,7 +28,7 @@ Today, it became clear that:
 ##  System Pipeline Understanding
 
 I now understand my system as a structured pipeline:
-'''text
+```text
 Desktop (Development & Simulation)
 ↓
 Raspberry Pi (Onboard Execution)
@@ -38,7 +38,7 @@ Runtime Environment (Data Output & Logging)
 R&D Repository (Analysis & Iteration)
 ↓
 ZeroGravity (Presentation & System Narrative)
-'''
+```
 This helped me see how each part of my project contributes to a continuous workflow.
 
 ---
@@ -75,10 +75,10 @@ This helped me see how each part of my project contributes to a continuous workf
 
 - Set up SSH access to Raspberry Pi  
 - Built onboard workspace structure:
-'''text
+```text
 ~/shadow_ws
 ~/shadow_runtime
-'''
+```
 - Installed ROS tools (`colcon`, `rosdep`)  
 - Successfully built first ROS package (`rplidar_ros`)  
 - Began hardware integration (LiDAR), identifying power and connection issues  
