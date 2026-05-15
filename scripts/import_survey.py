@@ -2,7 +2,7 @@ import pandas as pd
 import sqlite3
 
 # Read CSV file
-data = pd.read_csv("data/survey.csv")
+data = pd.read_csv("data/survey_responses.csv")
 
 # Connect to SQLite database
 conn = sqlite3.connect("database/zeroGravity.db")
