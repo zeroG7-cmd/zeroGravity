@@ -89,68 +89,66 @@ Use SMART goals for each aim.
 
 | Item | Amount / Answer |
 |---|---|
-| Turnover in the next 12 months of trading | **£ [12000]** |
-| Money left in the business at the end of this period | £`[from cashflow]` |
-| Total funding required to start the business | £`[amount]` |
-| Personal contribution / test trading | £`[amount]` |
-| Grant funding required from King’s Trust | £`[amount]` |
-| Loan funding required | £`[amount]` |
-| Business mentoring support | `[Yes / No]` |
+| Turnover in the next 12 months of trading | **£ [12,000]** |
+| Money left in the business at the end of this period | **£ [3,500]**|
+| Total funding required to start the business |**£ [3,000]** |
+| Personal contribution / test trading |**£ [200 + existing equipment]** |
+| Grant funding required from King’s Trust | **£ [2,800]** |
+| Loan funding required | **£ [0]**|
+| Business mentoring support |** [Yes]** |
 
 ---
 
 ### Cost Plus Pricing
 
-`[Explain your pricing logic here]`
-
 Example:  
 I have decided not to include my labour costs in my cost plus pricing because the profit margin is high enough that I do not require this at this stage.
+
+- My pricing takes into account operational costs such as travel, equipment use, batteries, and outsourced editing where required. At this stage, I am focused on building my portfolio and client base, so I am not fully factoring in my labour costs. However, all projects are priced to remain profitable while still being competitive within the market.
 
 ---
 
 ### Sales and Costs Forecast
 
-`[Explain any key points from your sales and costs forecast]`
-
 Example:  
 When I hire the media company in March 2022, as shown in my cashflow, I am confident we will be able to dramatically increase our sales in Year 2.
+
+- In the first year, I expect gradual growth as I build my portfolio, online presence, and relationships with estate agents and local businesses. Drone cinematography will be the main source of income while I continue improving my technical capabilities and developing advanced drone systems for future expansion into more specialised services.
 
 ---
 
 ### Personal Survival Budget
 
-`[Explain key personal budget points here]`
-
 Example:  
 I have no rent or rates because I am still living at home with my parents rent free.
+
+- I currently have low living costs, which allows me to focus on growing the business without immediate financial pressure. This gives me the flexibility to reinvest profits into equipment, learning, and business development during the first year.
 
 ---
 
 ### Cashflow
 
-`[Explain any important cashflow assumptions here]`
-
 Example:  
 I have no sales during July and August because schools are closed for summer holidays and this is when I am taking my holidays.
+
+- My cashflow reflects gradual growth over time rather than immediate high income. Early months may have lower income while I focus on networking, portfolio building, and developing my services. Costs include travel, equipment maintenance, batteries, outsourced editing, and ongoing development tools required to improve service quality and reliability.
 
 ---
 
 ## 1.4 Your Business Name
 
-`[Business name here]`
-
+**zer0Gravity**
 ---
 
 ## 1.5 Strapline
 
-`[Strapline here]`
+*Elevate Your Vision*
 
 ---
 
 ## 1.6 Elevator Pitch
 
-`[Write your elevator pitch here]`
-
+- Zer0Gravity is a drone cinematography business delivering high-quality aerial photography and videography for real estate, events, and businesses. By combining creative storytelling with advanced drone technology, the business provides unique elevated perspectives while building toward future innovation in drone systems and design.
 ---
 
 # Section Two: Owner’s Background
@@ -159,32 +157,32 @@ I have no sales during July and August because schools are closed for summer hol
 
 ### Why have you decided to start your own business?
 
-`[Write 1–2 sentences here]`
-
 Example:  
 I have always been interested in technology, creativity, and building things, and starting my own business allows me to combine these passions into something meaningful while creating my own opportunities.
 
+- I have always been interested in technology, creativity, and building things, and starting my own business allows me to combine these passions into something meaningful while creating my own opportunities.
 ---
 
 ### Why is it the right choice for you?
 
-`[Write 1–2 sentences here]`
-
 Example:  
 It allows me to take control of my career, apply my engineering background in a practical way, and grow at my own pace while developing both technical and creative skills.
 
+- It allows me to apply my engineering background in a practical and creative way while continuously developing my technical skills and growing at my own pace.
 ---
 
 ### What drives you to make it a success?
 
-`[Write 1–2 sentences here]`
+- I am driven by the desire to build something from the ground up and turn my ideas into a real business that can grow into an innovative technology brand in the future.
+
 
 ---
 
 ### Skills, knowledge, experience, and transferable skills
 
-`[Write 3–5 sentences here]`
+- I have a degree in Electrical and Electronic Engineering, giving me a strong understanding of systems, problem-solving, and technology. I also have hands-on experience building and working with drones, including custom FPV systems and autonomous drone development using LiDAR technology.
 
+- In addition, I have practical experience working as a technician in a laser and special effects company, where I developed teamwork, troubleshooting, and technical setup skills in fast-paced environments. I also have transferable skills in communication, organisation, adaptability, and continuous learning, which will support both client work and business growth.
 ---
 
 ## 2.2 Previous Work Experience
@@ -193,28 +191,12 @@ It allows me to take control of my career, apply my engineering background in a 
 
 | Field | Details |
 |---|---|
-| Job / Role | `[Role]` |
-| Name of company | `[Company]` |
-| Date range | `[Dates]` |
-| Summary | `[1–2 sentence summary]` |
+| Job / Role |**Technician** |
+| Name of company | **ER Productions** |
+| Date range | **Aprill - October 2021** |
+| Summary | *Assisted with the setup and operation of laser and special effects equipment for events, developing technical, troubleshooting, and teamwork skills in a fast-paced environment.*|
 
-### Job 2
 
-| Field | Details |
-|---|---|
-| Job / Role | `[Role]` |
-| Name of company | `[Company]` |
-| Date range | `[Dates]` |
-| Summary | `[1–2 sentence summary]` |
-
-### Job 3
-
-| Field | Details |
-|---|---|
-| Job / Role | `[Role]` |
-| Name of company | `[Company]` |
-| Date range | `[Dates]` |
-| Summary | `[1–2 sentence summary]` |
 
 ---
 
@@ -228,7 +210,9 @@ Include:
 - Dates and locations
 - DBS check details, if required for the business
 
-`[Write details here]`
+BEng (Hons) Electrical and Electronic Engineering
+
+Northumbria University – [Graduation Year]
 
 ---
 
@@ -239,19 +223,28 @@ Update this section during the programme to show King’s Trust support and othe
 | Year | Training |
 |---|---|
 | 2026 | King’s Trust Business Essential Course |
-| 2026 / 2027 | `[Future training course]` |
+| 2026 / 2027 | A2 CofC Drone Certification |
+| 2026 / 2027 | Video Editing and Content Creation Training |
+| 2026 / 2027 | Advanced Drone Systems and Robotics Development |
+
 
 ---
 
 ## 2.5 Hobbies and Interests
 
-`[List hobbies and interests here]`
+- Drone building and flying
+- FPV drone cinematography
+- Robotics and autonomous systems
+- Technology and engineering development
+- Video production and cinematic storytelling
+- Learning programming and technical systems
+- Gaming and futuristic design concepts
 
 ---
 
 ## 2.7 Additional Information
 
-`[Add any extra information here]`
+I am committed to continuously improving both my technical and creative skills while building Zer0Gravity into a long-term business. My long-term vision is to expand beyond drone services into advanced drone systems and future-focused aerial technology development.
 
 ---
 
@@ -267,7 +260,7 @@ Update this section during the programme to show King’s Trust support and othe
 
 I will be selling:
 
-`[Brief overview of the overall product or service]`
+I will provide professional drone photography and videography services for real estate, events, and businesses, creating high-quality aerial content that helps clients market their properties, brands, and events through unique elevated perspectives.
 
 Keep this brief. More detail goes in Section 3.3.
 
