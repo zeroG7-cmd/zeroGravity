@@ -34,18 +34,7 @@ Useful links / checks:
 
 **What do you do, what are you going to sell, where, and to whom?**  
 
-**zer0Gravity** is a drone technology business specialising in:
-- aerial cinematography, 
-- data capture
-- advanced drone development 
-
-providing high-quality drone footage for:
-- real estate 
-- events
-- commercial clients
-
-before expanding into drone-based mapping, surveying, and product development.
-
+**zer0Gravity** is a drone services business specialising in aerial photography and cinematography for real estate, events, and commercial clients. Alongside service delivery, the business will continue developing technical capabilities in preparation for future expansion into drone-based data collection, mapping, surveying, and custom drone systems.
 
 ---
 
@@ -210,9 +199,12 @@ Include:
 - Dates and locations
 - DBS check details, if required for the business
 
-BEng (Hons) Electrical and Electronic Engineering
+| Institute | Qualifications | Year |
+|---|---|---|
+Northumbria University (Newcastle) | BEng (Hons) Electrical and Electronic Engineering |  [2021-2024]
+Bromley College | BTEC extended diploma Mechanical Engineering |  [2015-2017]
+St. Columbus Secondary Boy School | GCSE | [2008-2013]
 
-Northumbria University – [Graduation Year]
 
 ---
 
@@ -270,11 +262,11 @@ Keep this brief. More detail goes in Section 3.3.
 
 | Product or Service | Price | Description |
 |---|---:|---|
-| `[Product / Service]` | £`[Price]` | `[Description]` |
-| `[Product / Service]` | £`[Price]` | `[Description]` |
-| `[Product / Service]` | £`[Price]` | `[Description]` |
-| `[Product / Service]` | £`[Price]` | `[Description]` |
-| `[Product / Service]` | £`[Price]` | `[Description]` |
+| `Real Estate Drone Photography` | £`£100-£150` | `Aerial photographs for property listings and marketing.` |
+| `Real Estate Drone Video` | £`£150-£250` | `Cinematic aerial video showcasing residential and commercial properties.` |
+| `Event Drone Coverage` | £`£150-£350` | `Aerial coverage of events, parties, and outdoor celebrations.` |
+| `Social Media Content Package` | £`£100-£250` | `Short-form aerial content for Instagram, TikTok and online marketing` |
+| `FPV Cinematic Drone Package` | £`£250-£500` | `Dynamic FPV footage for businesses, events and promotional content.` |
 
 ---
 
@@ -304,7 +296,9 @@ If you are selling everything from Section 3.3 at the start, write `N/A`.
 
 | Product or Service | Price | Month You Will Start Selling | Description |
 |---|---:|---|---|
-| `[Product / Service]` | £`[Price]` | `[Month]` | `[Description]` |
+| **`Drone Data Collection Services`** | £`300+` | `Year 2` | `Surveying, inspections, mapping and data capture using advanced drone systems.` |
+| **`Custom Drone Builds`** | £`£500+` | `Year 2+` | `Custom-built drone systems for specialist applications.` |
+| **`Advanced Drone Development`** | `Custom Pricing` | `Year 3+` | `Future development of autonomous and intelligent drone solutions.` |
 
 ---
 
@@ -318,7 +312,7 @@ If you are selling everything from Section 3.3 at the start, write `N/A`.
 
 ## 4.1 Are Your Customers Businesses or Individuals?
 
-`[Businesses / Individuals / Both]`
+**`Both`**
 
 ---
 
@@ -384,9 +378,9 @@ Consider:
 
 In Year 1, my customers are based in the UK. I will focus on these cities / areas:
 
-- `[Area 1]`
-- `[Area 2]`
-- `[Area 3]`
+- `London`
+- `Kent`
+- `Essex`
 
 Tip: Always think big but start small. Start with an area you know well first, get established, then expand slowly.
 
@@ -396,9 +390,10 @@ Tip: Always think big but start small. Start with an area you know well first, g
 
 I will drive traffic to my website via:
 
-- `[Channel 1]`
-- `[Channel 2]`
-- `[Channel 3]`
+- `LinkedIn`
+- `Instagram`
+- `TikTok`
+- `Word of mouth referrals`
 
 If selling online, identify websites or platforms that will send traffic to your store or service.
 
@@ -408,11 +403,11 @@ If selling online, identify websites or platforms that will send traffic to your
 
 A prompt is an event or need that causes a customer to look for your product or service.
 
-1. `[Prompt 1]`
-2. `[Prompt 2]`
-3. `[Prompt 3]`
-4. `[Prompt 4]`
-5. `[Prompt 5]`
+1. `Selling a property`
+2. `Marketing a business`
+3. `Promoting an event`
+4. `Creating social media content`
+5. `Improving online visibility`
 
 Examples:
 
@@ -439,11 +434,11 @@ Consider:
 
 List at least five:
 
-1. `[Factor 1]`
-2. `[Factor 2]`
-3. `[Factor 3]`
-4. `[Factor 4]`
-5. `[Factor 5]`
+1. `Quality`
+2. `Professionalism`
+3. `Price`
+4. `Speed of delivery`
+5. `Experience`
 
 ---
 
@@ -453,19 +448,19 @@ Update as you go along.
 
 ### Trade Event or Sales Channel 1
 
-**Name:** `[Name]`  
-**Date:** `[Date]`  
-**Sales:** £`[Amount]`  
-**Costs:** £`[Amount]`  
-**Profit:** £`[Amount]`
+**Name:** `360 Sky Lounge`  
+**Date:** `November 2023`  
+**Sales:** £`60`  
+**Costs:** £`0`  
+**Profit:** £`60`
 
 ### Trade Event or Sales Channel 2
 
-**Name:** `[Name]`  
-**Date:** `[Date]`  
-**Sales:** £`[Amount]`  
-**Costs:** £`[Amount]`  
-**Profit:** £`[Amount]`
+**Name:** `NXP`  
+**Date:** `September 2023`  
+**Sales:** £`0`  
+**Costs:** £`0`  
+**Profit:** £`0`
 
 ### Trade Event or Sales Channel 3
 
@@ -479,7 +474,7 @@ Update as you go along.
 
 ## 4.7 Have You Got Customers Waiting to Buy Your Product or Service?
 
-`[Add details here]`
+`I have begun networking with estate agents and business owners through LinkedIn and have received positive engagement. I am currently building relationships and generating interest while developing my portfolio.`
 
 Mention:
 
@@ -512,19 +507,19 @@ Refer to your market research slides.
 
 ### Market Size
 
-`[Write findings here]`
+`The drone services industry continues to grow due to increased demand for aerial photography, videography, and commercial drone applications. Real estate and social media marketing are key growth areas for drone content creation.`
 
 ### Market Trends
 
-`[Write findings here]`
+`There is increasing demand for short-form video content, cinematic visuals, and FPV drone footage across platforms such as Instagram, TikTok, and YouTube. Businesses are also investing more in visual marketing to stand out online.`
 
 ### Important Facts, Statistics, or Events
 
-`[Write findings here]`
+`Properties marketed with professional visuals often attract more engagement online. Drone technology is becoming more accessible and widely adopted across industries including real estate, events, media, and surveying.`
 
 ### Seasonality and External Factors: PESTLE
 
-`[Write findings here]`
+`Weather conditions and seasonal changes can affect drone operations, particularly during winter months. Social media trends and increased digital marketing activity continue to drive demand for visual content services.`
 
 ### Knowledge of Target Areas
 
@@ -538,9 +533,9 @@ Research the areas where your customers are based. Include:
 
 | Area | Relevant Research Point |
 |---|---|
-| `[Area 1]` | `[Research point]` |
-| `[Area 2]` | `[Research point]` |
-| `[Area 3]` | `[Research point]` |
+| `London` | `High population density and strong demand for property and business marketing services.` |
+| `Essex` | `Growing residential developments and local business opportunities.` |
+| `Hertfordshire` | `Strong commuter population and active property market creating demand for media services.` |
 
 ---
 
@@ -811,7 +806,7 @@ Research competitor:
 
 | Name, Location, and Business Size | Product or Service Offered | Price | Strengths | Weaknesses |
 |---|---|---:|---|---|
-| `[Competitor 1]` | `[Service]` | £`[Price]` | `[Strengths]` | `[Weaknesses]` |
+| `Sharpest.mov` | `Content creation` <br> `Video production` | £`[Price]` | `[Strengths]` | `[Weaknesses]` |
 | `[Competitor 2]` | `[Service]` | £`[Price]` | `[Strengths]` | `[Weaknesses]` |
 | `[Competitor 3]` | `[Service]` | £`[Price]` | `[Strengths]` | `[Weaknesses]` |
 | `[Competitor 4]` | `[Service]` | £`[Price]` | `[Strengths]` | `[Weaknesses]` |
@@ -824,15 +819,17 @@ Include how you will reduce weaknesses and threats.
 
 | Strengths | Weaknesses |
 |---|---|
-| `[Point 1]` | `[Point 1]` |
-| `[Point 2]` | `[Point 2]` |
-| `[Point 3]` | `[Point 3]` |
+| `Engineering background` | `Limited commercial portfolio` |
+| `Drone building knowledge` | `New business` |
+| `Future-focused vision` | `Limited marketing budget` |
+| `FPV capability` | `Learning video editing` |
 
 | Opportunities | Threats |
 |---|---|
-| `[Point 1]` | `[Point 1]` |
-| `[Point 2]` | `[Point 2]` |
-| `[Point 3]` | `[Point 3]` |
+| `Growing drone industry` | `High competition` |
+| `Growing social media demand` | `Economic downturn` |
+| `Expansion into surveying and data collection` | `New competitors entering market` |
+| `Future drone products and services` | `Weather affecting operations` |
 
 ---
 
@@ -847,7 +844,7 @@ Include how you will reduce weaknesses and threats.
 Your USP should explain what makes your business different and why customers should buy from you.
 
 **USP:**  
-`[Write 1–2 sentences here. Try to say it in less than 10 words if possible.]`
+`Elevated perspectives powered by creativity and technology.`
 
 ---
 
