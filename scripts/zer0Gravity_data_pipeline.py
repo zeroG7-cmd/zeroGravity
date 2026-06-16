@@ -11,15 +11,15 @@ from datetime import datetime
 #
 
 #base 
-script_DIR =
-base_DIR =
+SCRIPT_DIR = os.path.dirname(__FILE__)
+BASE_DIR = os.path.dirname(SCRIPT_DIR)
 
 
 #database
-db_PATH =
+DB_PATH =
 
 #data
-data_DIR = 
+DATA_DIR = 
 
 
 
