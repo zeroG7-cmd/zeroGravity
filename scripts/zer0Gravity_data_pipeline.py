@@ -16,10 +16,10 @@ BASE_DIR = os.path.dirname(SCRIPT_DIR)
 
 
 #database
-DB_PATH =
+DB_PATH = os.path.join(BASE_DIR, "database", "zeroGravity.db")
 
 #data
-DATA_DIR = 
+DATA_DIR = os.parh.join(BASE_DIR, "data")
 
 
 
