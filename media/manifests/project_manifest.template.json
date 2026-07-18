@@ -1,0 +1,12 @@
+{
+  "project_id": "ZG-MEDIA-001",
+  "title": "Project title",
+  "status": "editing",
+  "media_root": "D:/ZeroGravity-Media/projects/project-slug",
+  "role": ["drone operator", "camera operator"],
+  "ownership": {"captured_by_zeroGravity": true, "third_party_material": false},
+  "rights": {"client_permission": "unknown", "portfolio_permission": "unknown", "release_notes": ""},
+  "collaborators": [],
+  "deliverables": [],
+  "website_ready": false
+}
