@@ -1,0 +1,21 @@
+{
+  "project_id": "ZG-MEDIA-001",
+  "title": "360 Sky Lounge",
+  "status": "editing",
+  "media_root": "C:\\Users\\Zero\\zero Gravity\\zeroGravity-media/projects/360-sky-lounge",
+  "role": [
+    "drone operator"
+  ],
+  "ownership": {
+    "captured_by_zeroGravity": true,
+    "third_party_material": false
+  },
+  "rights": {
+    "client_permission": "y",
+    "portfolio_permission": "y",
+    "release_notes": ""
+  },
+  "collaborators": [],
+  "deliverables": [],
+  "website_ready": false
+}
