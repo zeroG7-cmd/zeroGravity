@@ -131,7 +131,7 @@ I have no sales during July and August because schools are closed for summer hol
 
 ## 1.5 Strapline
 
-*Elevate Your Vision*
+*Elevate Your Vision, Frome Zero to One*
 
 ---
 
@@ -541,7 +541,7 @@ Research the areas where your customers are based. Include:
 
 ### Industry Knowledge
 
-`[Write at least one strong paragraph showing your knowledge of the industry]`
+`zeroGravity operates in the UK aerial cinematography market, competing at a level between two distinct existing players I've researched directly. Skycam (theskycam.co.uk, London) represents the corporate/established end of the market — professional, safe, broad service offering across real estate, events, and construction, but with a fairly standard, traditional visual style and no real emphasis on the more dynamic FPV cinematography that's grown popular on social media. Aerial Film Company sits at the opposite, premium/creative end — genuinely cinematic, film-grade quality with strong visual storytelling, but priced for high-end brand and film-industry clients, which puts it out of reach for smaller local businesses like independent estate agents or hospitality venues. zeroGravity's opportunity sits in the gap between these two: cinematic-quality visuals and FPV movement, delivered at a price point accessible to smaller local clients rather than only corporate or luxury budgets. This is a real, identified gap rather than an assumption — both competitors' own published strengths and weaknesses point to it directly.`
 
 Useful research sources:
 
@@ -563,40 +563,35 @@ Useful research sources:
 ### Questionnaire Sample
 
 **How did you choose the people who completed the questionnaire, and how many people completed it?**  
-`[Write 1–2 sentences here]`
+`A structured 8-question survey was built specifically for this business and distributed via Google Forms. 32 responses have been collected to date (predominantly private individuals rather than commercial contacts so far - see sample composition note below). The plan is to extend distribution directly to local real estate agencies to improve the commercial relevance of the sample going forward.`
 
 ---
 
 ### Overall Outcome
 
-`[Write 2–4 sentences here]`
+`Of 32 respondents, 43.8% said they would definitely consider using drone services, and a further 56.2% said "Maybe" - meaning 0% said No outright. 90.6% had never used a drone service before, indicating a largely untapped, first-adopter market rather than one requiring customers to switch from an existing provider. Quality was by far the most commonly selected purchase factor (75.0%), ahead of Price and Professionalism (46.9% each), suggesting price is not the primary competitive lever for this audience. 65.6% indicated a willingness to pay £100 or more.`
 
 ---
 
 ### Data Points
 
-1. `[Data point 1]`
-2. `[Data point 2]`
-3. `[Data point 3]`
-4. `[Data point 4]`
-5. `[Data point 5]`
-
-Examples:
-
-- 90% have previously bought children’s clothes online and would do so again.
-- 70% of those surveyed aged between 30–35 would like to buy gender-neutral children’s clothes.
+1. `0% of respondents said they would not consider using drone services (43.8% Yes, 56.2% Maybe).`
+2. `90.6% have never used a drone service before - a first-adopter market opportunity.`
+3. `75.0% cited Quality as a key purchase factor, the single most-selected factor, ahead of Price (46.9%) and Professionalism (46.9%).`
+4. `65.6% would pay £100 or more for drone services (37.5% in the £100-£200 band, 28.1% in £200-£500).`
+5. `Events (weddings/parties) and Social media content were the two most in-demand use cases (46.9% and 43.8% of respondents respectively), notably ahead of real estate/property specifically (9.4%) within this sample.`
 
 ---
 
 ### Conclusions
 
-`[Write 2–8 sentences explaining conclusions and any changes to your business]`
+`The results are genuinely encouraging on demand and price tolerance - no respondent rejected the idea of using drone services outright, and a majority would pay above the entry price band, with quality valued over price as the deciding factor. However, one honest limitation is worth acting on directly: this sample (78.1% private individuals, only 3.1% real estate agents) currently reflects stronger interest in events and social media content than in real estate specifically, which is the stated core business direction. This is exactly why the next step is deliberately targeting real estate agencies directly for further responses, rather than treating the current sample as representative of the real estate market alone. It does not change the business direction, but it does mean the real estate-specific portion of demand still needs direct validation from the actual target trade, not just the general public.`
 
 ---
 
 ### Testimonials and Reviews
 
-`[Add testimonials or reviews here]`
+`None yet - no completed projects to date. Free-text survey comments (not formal testimonials) included encouraging general remarks such as "Drone services will really enhance productivity" and "Well-packaged portfolio, robust marketing and entrepreneurial spirit will help drone services provider business to flourish" - supportive in tone but not yet client testimonials from delivered work.`
 
 ---
 
@@ -620,43 +615,43 @@ Free platforms:
 
 ## 5.3 Key Findings from Field Research: Test Trading
 
-I registered my business in `[Month Year]` and started trading in `[Month Year]`.
+**Status: not yet registered, no trading has occurred yet.**
 
 | Item | Amount |
 |---|---:|
-| Total Turnover | £`[Amount]` |
-| Total Costs | £`[Amount]` |
-| Total Profit | £`[Amount]` |
+| Total Turnover | Not yet applicable |
+| Total Costs | Not yet applicable |
+| Total Profit | Not yet applicable |
 
 ---
 
 ### Market Research
 
-`[Did test trading reflect your desk research and surveys? What did you apply from competitor research and SWOT analysis?]`
+`Not yet applicable - no test trading has occurred. To be completed once the first paid project (most likely the B&B booking) is secured and delivered.`
 
 ---
 
 ### Marketing
 
-`[Key learnings, challenges, consistency, results]`
+`Not yet applicable - pending first trading period.`
 
 ---
 
 ### Operations
 
-`[Key learnings, challenges, supply chain, legal compliance, payment, delivery, what worked and what did not]`
+`Not yet applicable - pending first trading period.`
 
 ---
 
 ### Pricing
 
-`[Key learnings, challenges, customer willingness to buy, pricing adjustments]`
+`Not yet applicable - pending first trading period.`
 
 ---
 
 ### Back-Up Plan
 
-`[Suppliers, skills, training, pivot options]`
+`Not yet applicable - pending first trading period.`
 
 ---
 
@@ -681,7 +676,7 @@ Consider completing a free marketing audit using ChatGPT.
 
 ## Marketing SMART Goals
 
-`[Write SMART marketing goals here]`
+`Secure the first paid booking (the B&B cinematography project) within 4 weeks of website launch. Build a portfolio of 3 completed local projects within the first 3 months of trading, sufficient to support a genuine before/after case-study section on the website. Reach first-page visibility on Google for "[local area] drone videography" within 6 months of website launch, supported by consistent SEO and word-of-mouth referral.`
 
 ---
 
@@ -720,13 +715,11 @@ Consider completing a free marketing audit using ChatGPT.
 
 | What are you going to do and when? | Why have you chosen this method? | How will you do this? | How much will it cost? | Measure of success |
 |---|---|---|---:|---|
-| Website / SEO / Blog | `[Reason]` | `[Method]` | £`[Cost]` | `[Measure]` |
-| Instagram | `[Reason]` | `[Method]` | £`[Cost / Free]` | `[Measure]` |
-| Reviews | `[Reason]` | `[Method]` | £`[Cost]` | `[Measure]` |
-| Email list | `[Reason]` | `[Method]` | £`[Cost]` | `[Measure]` |
-| Google Business Profile | `[Reason]` | `[Method]` | £`[Cost / Free]` | `[Measure]` |
-| Markets / events | `[Reason]` | `[Method]` | £`[Cost]` | `[Measure]` |
-| Referrals | `[Reason]` | `[Method]` | £`[Cost]` | `[Measure]` |
+| Website (launch alongside first completed project) | Primary shop window for a visual business — people need to see quality before anything else | Portfolio-led homepage, work showcase, equipment/kit page, booking contact form | Low — self-built | Enquiries generated via contact form |
+| Word-of-mouth / direct local outreach | Already proven to work — the B&B lead came from exactly this | Direct conversations with local independent businesses, starting with existing personal network | Free | Number of warm leads converted to bookings |
+| Google Business Profile | Free, high-intent local search visibility | Set up once first project/address is confirmed | Free | Profile views, direction requests, contact clicks |
+| Social media (Instagram) | Deliberately delayed - avoiding presenting an unfinished brand before real completed work exists | Launch once 2-3 real completed projects exist to showcase | Free | Held until launch phase 2 |
+| Referral / repeat business | Local service businesses often rely on reputation within a small community | Ask satisfied clients (e.g. B&B) to refer other local businesses | Free | Number of referred leads |
 
 ---
 
@@ -844,7 +837,7 @@ Include how you will reduce weaknesses and threats.
 Your USP should explain what makes your business different and why customers should buy from you.
 
 **USP:**  
-`Elevated perspectives powered by creativity and technology.`
+`I don't outsource the technology I fly. I design, build, and operate it myself, so clients get cinematic results today from someone actively building toward the next generation of aerial systems, not renting equipment out of someone else's supply chain. And that's really just the surface of it. I'm not selling a service, I'm offering a philosophy with a service attached: I use my technology to spark people's own potential, to turn someone's zero into a one. That's what separates zer0Gravity from every other drone operator or drone companies. The engineering proves I can deliver. The philosophy is what makes it mine.`
 
 ---
 
@@ -1090,4 +1083,3 @@ Useful link:
 ## 8.11 Additional Information
 
 `[Add extra information here]`
-
