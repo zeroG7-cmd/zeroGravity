@@ -1,9 +1,15 @@
 # Real Estate Drone Services
 
-## Where this sits, honestly
-My own 32-response survey shows real estate as my weakest demand segment (9.4%), well behind events (46.9%) and social media content (43.8%). But my own conclusion in the survey write-up already explains why: 78.1% of respondents were private individuals and only 3.1% were actual real estate agents, so my sample simply didn't reach the people who'd actually buy this. That's a sampling gap, not proof real estate demand doesn't exist. I'm keeping this service, but I'm not treating it as a proven core pillar yet, I need to validate it directly with agents first.
+## Status: pending equipment, not bookable yet
+I don't currently own my cinematic drone (DJI Mavic-class) yet, only my custom 5-inch FPV build, but I expect to have it soon. Real estate photography needs smooth gimbal-stabilised stills and flythroughs alongside dynamic FPV work, not one or the other. Until the Mavic is actually in hand, I'm not advertising or booking this service, only the packages my current equipment can deliver (Events, Social Media, FPV Cinematic).
 
-## Who this is for
+## The signature shot I'm building this around
+Once I have all three drones (Mavic for steady exteriors, 5-inch FPV for dynamic outdoor shots, 3-inch cinewhoop for indoor flythroughs), I want a flagship shot: the cinewhoop flies through the interior of the property, tracing a route through the rooms, then exits through a window or doorway as the shot hands off to the Mavic revealing the whole exterior of the house. That's a genuinely different offering from a static photo listing, most competitors (per my own research on Skycam and Aerial Film Company) aren't doing this kind of interior-to-exterior reveal. Once it's proven, this becomes a premium tier above the base packages below, not folded into base pricing.
+
+## Where this sits, honestly
+My own 32-response survey shows real estate as my weakest demand segment (9.4%), well behind events (46.9%) and social media content (43.8%). But my own conclusion in the survey write-up already explains why: 78.1% of respondents were private individuals and only 3.1% were actual real estate agents, so my sample simply didn't reach the people who'd actually buy this. That's a sampling gap, not proof real estate demand doesn't exist. The signature shot above is also part of how I close that gap, it's a stronger pitch to agents than "aerial photos," which is likely why the general public sample undervalued this category.
+
+## Who this is for (once I'm equipped and validated)
 Estate agents, letting agents, and homeowners marketing residential or small commercial properties who want listings to stand out with aerial perspective.
 
 ## Packages
