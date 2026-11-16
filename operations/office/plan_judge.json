@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "source": "manual",
+  "run_at": "2026-11-16",
+  "note": "First judge pass, done by hand in chat against the repo copy of business_plan_template.md. Build 2 replaces this with the automatic Claude API judge on every save.",
+  "sections": {
+    "1": {"title": "§1 Executive summary", "verdict": "NEEDS WORK", "items": [
+      ["1.0 Trading period", false, "Still reads [Month Year] to [Month Year]"],
+      ["1.1 Business idea", true, "Clear: aerial photo + video, future data work"],
+      ["1.1 Name explained", false, "Answer is just the name, no reason given"],
+      ["1.2 SMART aims", true, "Numbers and timeframes present"],
+      ["1.3 Figures", false, "Turnover doesn't match the aims (see cross-checks)"],
+      ["1.5 Strapline", true, "Present. Typo: \"Frome\""]
+    ]},
+    "2": {"title": "§2 Owner background", "verdict": "PASS", "items": [
+      ["2.1 Motivation", true, "Specific and personal"],
+      ["2.1 Skills", true, "Degree, FPV, LiDAR, technician work"],
+      ["2.2 Work history", true, "One role. Typo: \"Aprill\""],
+      ["2.3 Qualifications", true, "Complete with dates"],
+      ["2.4 Training", true, "A2 CofC listed for 2026/27"]
+    ]},
+    "3": {"title": "§3 Products & services", "verdict": "PASS", "items": [
+      ["3.2 Basic service", true, "Clear"],
+      ["3.3 Price list", true, "Five services priced (differs from pricing doc)"],
+      ["3.4 Later services", true, "Data collection, custom builds, advanced dev"],
+      ["3.5 Extra info", true, "Optional, left blank"]
+    ]},
+    "4": {"title": "§4 The market", "verdict": "FAIL", "items": [
+      ["4.1 Customer type", true, "Both businesses and individuals"],
+      ["4.2 Individual profile", false, "Placeholder: [Write customer profile here]"],
+      ["4.2 Business profile", false, "Placeholder, no content"],
+      ["4.2 Decision makers", false, "Placeholder, no content"],
+      ["4.3 Locations", true, "London, Kent, Essex (but §5.1 says London, Essex, Hertfordshire)"],
+      ["4.4 Buying prompts", true, "Five prompts listed"],
+      ["4.5 Choice factors", true, "Matches survey: quality first"],
+      ["4.7 Customers waiting", true, "Claims LinkedIn interest. Needs mentor sign-off"],
+      ["4.8 Links", false, "Website and socials still [placeholders]"]
+    ]},
+    "5": {"title": "§5 Market research", "verdict": "PASS", "items": [
+      ["5.1 Desk research", true, "Market, trends, areas, competitor gap"],
+      ["5.2 Survey", true, "32 responses, honest about the sample"],
+      ["5.2 Conclusions", true, "Flags agent validation as next step"],
+      ["5.3 Test trading", true, "Not applicable yet, stated honestly"]
+    ]},
+    "6": {"title": "§6 Marketing", "verdict": "PASS", "items": [
+      ["SMART goals", true, "B&B booking, 3 projects, local SEO"],
+      ["Strategy table", true, "Five channels with cost and measure"],
+      ["Fits research", true, "Instagram held until launch"]
+    ]},
+    "7": {"title": "§7 Competitors", "verdict": "FAIL", "items": [
+      ["7.1 Competitor table", false, "1 of 4 rows, no prices or strengths. The 16 Nov sweep has 11 to choose from"],
+      ["7.2 SWOT", true, "All four boxes filled"],
+      ["7.2 Mitigation", false, "Placeholder paragraph"],
+      ["7.3 USP", true, "Distinct and specific"]
+    ]},
+    "8": {"title": "§8 Operations", "verdict": "DRAFT", "items": [
+      ["Template §8", false, "Mostly placeholders in the template"],
+      ["Separate draft", true, "operations_section8.md has journey, delivery, legal, staff"],
+      ["Figures", false, "Deposit, suppliers, insurance, transport, equipment missing"]
+    ]}
+  },
+  "cross_checks": [
+    ["§1.3 vs §1.2", "FAIL", "£12k turnover = £1k a month, but 5 to 10 clients at £150 to 350 is £750 to £3,500"],
+    ["§3.3 vs pricing doc", "MISMATCH", "RE photo £100 to 150 here, £150 in pricing_strategy.md"],
+    ["§4.3 vs §5.1", "MISMATCH", "Areas: London, Kent, Essex vs London, Essex, Hertfordshire"]
+  ]
+}

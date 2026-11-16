@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "note": "Launch Readiness checklist for the zeroGravity Office in Zero Command. Items clear only when their check passes. There is no manual 'done' flag on purpose.",
+  "website_domain": "",
+  "plan_file": "docs/01_business_plan/kings_trust/business_plan_template.md",
+  "gates": [
+    {
+      "id": "compliance",
+      "name": "COMPLIANCE",
+      "items": [
+        {
+          "id": "operator_id",
+          "title": "CAA Operator ID",
+          "check": {"type": "evidence", "label": "ID + renewal date from CAA confirmation"},
+          "quick": {"sub": "Online, about £12 a year, issued instantly", "ev": "Legally needed to fly your 5-inch at all", "weight": 10}
+        },
+        {
+          "id": "flyer_id",
+          "title": "Flyer ID",
+          "check": {"type": "evidence", "label": "certificate in vault, name + ID read by vision"},
+          "quick": {"sub": "Drop the certificate PDF into the evidence vault", "ev": "Counts once the vision check confirms it", "weight": 6}
+        },
+        {
+          "id": "a2_cofc",
+          "title": "A2 CofC",
+          "check": {"type": "evidence", "label": "certificate + issue date"}
+        },
+        {
+          "id": "insurance",
+          "title": "Commercial insurance",
+          "check": {"type": "evidence", "label": "policy PDF, expiry re-checked daily"},
+          "quick": {"sub": "Get 2 online quotes, about 30 min", "ev": "Fills a MONEY line and Plan §8.9", "weight": 5}
+        }
+      ]
+    },
+    {
+      "id": "assets",
+      "name": "ASSETS",
+      "items": [
+        {
+          "id": "brand_system",
+          "title": "Brand system",
+          "check": {"type": "glob", "root": "zerogravity", "pattern": "assets/images/branding/*.png", "min": 1, "label": "logo + palette in assets/images/branding"}
+        },
+        {
+          "id": "footage_shot",
+          "title": "Footage shot",
+          "check": {"type": "media_raw", "min": 1, "label": "raw clips in zeroGravity-media (ffprobe)"}
+        },
+        {
+          "id": "footage_edited",
+          "title": "Footage edited",
+          "check": {"type": "media_export", "min": 1, "min_seconds": 30, "label": "exported cut 30s+ in a project exports/ folder"}
+        },
+        {
+          "id": "portfolio",
+          "title": "Portfolio (3 pieces)",
+          "check": {"type": "media_export", "min": 3, "min_seconds": 30, "require_permission": true, "label": "3 exports with portfolio permission"}
+        },
+        {
+          "id": "website_live",
+          "title": "Website live",
+          "check": {"type": "http", "label": "HTTP 200 on your domain"}
+        }
+      ]
+    },
+    {
+      "id": "plan",
+      "name": "PLAN",
+      "items": [
+        {
+          "id": "kt_1_7",
+          "title": "King's Trust §1 to 7",
+          "check": {"type": "plan_sections", "sections": [1, 2, 3, 4, 5, 6, 7], "label": "no placeholders left + AI judge passes"}
+        },
+        {
+          "id": "kt_8",
+          "title": "§8 Operations & Logistics",
+          "check": {"type": "plan_sections", "sections": [8], "label": "no placeholders left + AI judge passes"}
+        },
+        {
+          "id": "real_figures",
+          "title": "Real figures",
+          "check": {"type": "plan_figures", "label": "§1.3 and §8 figures filled, no [brackets]"}
+        }
+      ]
+    },
+    {
+      "id": "trading",
+      "name": "TRADING",
+      "items": [
+        {
+          "id": "first_lead",
+          "title": "First lead contacted",
+          "check": {"type": "watcher_pending", "label": "sent email to a logged lead (Gmail watcher, build 2)"}
+        },
+        {
+          "id": "first_quote",
+          "title": "First quote sent",
+          "check": {"type": "watcher_pending", "label": "sent email with quote PDF (unlocks Phase 2)"}
+        },
+        {
+          "id": "first_job",
+          "title": "First job delivered",
+          "check": {"type": "watcher_pending", "label": "payment received"}
+        }
+      ]
+    }
+  ],
+  "extra_quick_wins": [
+    {"id": "coach_email", "title": "Email your work coach", "sub": "Pausing, reapplying Feb 2027", "ev": "Clears when the sent email is found (build 2)", "weight": 9}
+  ],
+  "fleet": {"airworthy": ["5-inch FPV (self-built)", "BETAFPV Air65 II"], "in_build": ["3-inch cinewhoop"], "planned": ["Stabilised cine drone"]}
+}

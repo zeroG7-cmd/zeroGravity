@@ -33,3 +33,8 @@ Thumbs.db
 *.zip
 __pycache__/
 *.py[cod]
+
+# ------------------------
+# Office evidence vault (certificates, policies). Never commit: repo is public.
+# ------------------------
+operations/office/evidence/
